@@ -1,2 +1,0 @@
-This is a dummy file.
-The file has been modified.
